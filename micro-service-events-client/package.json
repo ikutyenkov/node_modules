@@ -1,0 +1,22 @@
+{
+  "name": "micro-service-events-client",
+  "version": "1.0.0",
+  "author": "Ivan Kutenkov <Kutenkov.I@masteralgoritmov.ru>",
+  "description": "client for connection micro-service module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikutyenkov/node_modules.git"
+  },
+  "keywords": [
+    "micro-service-events"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ikutyenkov/micro-service-events/issues"
+  },
+  "homepage": "https://github.com/ikutyenkov/node_modules/tree/main/micro-service-events-client/"
+}
