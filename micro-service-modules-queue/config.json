@@ -1,0 +1,8 @@
+{
+  "client" : "daemon",
+  "group" : "daemon",
+  "controller" : "kafka",
+  "host" : "kafka",
+  "port" : 9092,
+  "timeout" : 10
+}

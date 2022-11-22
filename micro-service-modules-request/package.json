@@ -1,0 +1,22 @@
+{
+  "name": "micro-service-modules-request",
+  "version": "1.0.0",
+  "author": "Ivan Kutenkov <Kutenkov.I@masteralgoritmov.ru>",
+  "description": "request module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikutyenkov/node_modules.git"
+  },
+  "keywords": [
+    "micro-service-modules-request"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ikutyenkov/node_modules/tree/main/micro-service-modules-request/issues"
+  },
+  "homepage": "https://github.com/ikutyenkov/node_modules/tree/main/micro-service-modules-request/"
+}

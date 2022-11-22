@@ -1,0 +1,22 @@
+{
+  "name": "micro-service-modules-queue",
+  "version": "1.0.0",
+  "author": "Ivan Kutenkov <Kutenkov.I@masteralgoritmov.ru>",
+  "description": "queue module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikutyenkov/node_modules.git"
+  },
+  "keywords": [
+    "micro-service-modules-queue"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ikutyenkov/node_modules/tree/main/micro-service-modules-queue/issues"
+  },
+  "homepage": "https://github.com/ikutyenkov/node_modules/tree/main/micro-service-modules-queue/"
+}

@@ -1,11 +1,12 @@
 const Instance = require("./controllers/instance.js");
+const config = require("./config.json");
 
 class MicroServiceInterfaceClient
 {
-    constructor(host, module, port)
+    constructor(module, host, port)
     {
-        this.host = host;
-        this.port = port;
+        this.host = host ?? config.host;
+        this.port = port ?? config.port;
         this.moduleName = module;
         this.instances = {};
         this.initiate = false;
